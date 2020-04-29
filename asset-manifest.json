@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-domashka-first/static/css/main.cd8aa339.chunk.css",
+    "main.js": "/react-domashka-first/static/js/main.722fe8ef.chunk.js",
+    "main.js.map": "/react-domashka-first/static/js/main.722fe8ef.chunk.js.map",
+    "runtime-main.js": "/react-domashka-first/static/js/runtime-main.6945e947.js",
+    "runtime-main.js.map": "/react-domashka-first/static/js/runtime-main.6945e947.js.map",
+    "static/js/2.69554687.chunk.js": "/react-domashka-first/static/js/2.69554687.chunk.js",
+    "static/js/2.69554687.chunk.js.map": "/react-domashka-first/static/js/2.69554687.chunk.js.map",
+    "index.html": "/react-domashka-first/index.html",
+    "precache-manifest.35e86c5632451acb971857c2f4d5a135.js": "/react-domashka-first/precache-manifest.35e86c5632451acb971857c2f4d5a135.js",
+    "service-worker.js": "/react-domashka-first/service-worker.js",
+    "static/css/main.cd8aa339.chunk.css.map": "/react-domashka-first/static/css/main.cd8aa339.chunk.css.map",
+    "static/js/2.69554687.chunk.js.LICENSE.txt": "/react-domashka-first/static/js/2.69554687.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6945e947.js",
+    "static/js/2.69554687.chunk.js",
+    "static/css/main.cd8aa339.chunk.css",
+    "static/js/main.722fe8ef.chunk.js"
+  ]
+}
