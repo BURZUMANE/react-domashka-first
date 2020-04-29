@@ -1,0 +1,10 @@
+.row{
+    width: 270px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+.even{
+    composes:row;
+    background-color: #808080;
+}
